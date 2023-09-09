@@ -8,5 +8,10 @@ public class Main{
     System.out.println("addiotion = "+(num1+num2+num3));
     System.out.println("subtraction = "+(num1-num2));
     System.out.println("multiplication = "+(num1*num2));
+    
+    System.out.println("divide = "+(num1 / num2));
+    System.out.println("mod = "+(num1 % num2));
+
+    System.out.println("done with changes");
   }//main
 }//class
