@@ -10,5 +10,7 @@ public class Main{
     
     System.out.println("divide = "+(num1 / num2));
     System.out.println("mod = "+(num1 % num2));
+
+    System.out.println("done with changes");
   }//main
 }//class
